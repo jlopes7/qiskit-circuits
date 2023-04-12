@@ -1,1 +1,2 @@
-# qiskit-circuits
+# Quantum Based circuits
+Qiskit resources
