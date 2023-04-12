@@ -1,0 +1,3 @@
+qiskit
+numpy==1.24.2
+seaborn
